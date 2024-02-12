@@ -28,7 +28,7 @@
  - 部分字形尚需调整和优化。
 
 ## 字体授权
-斑马点阵体遵循 [SIL Open Font License 1.1]（https://openfontlicense.org/open-font-license-official-text/） 许可协议。您可以将此字体用于包含商用与嵌入式使用在内的多种用途，而无须取得字体作者的授权。
+斑马点阵体遵循 [SIL Open Font License 1.1](https://openfontlicense.org/open-font-license-official-text/) 许可协议。您可以将此字体用于包含商用与嵌入式使用在内的多种用途，而无须取得字体作者的授权。
 再分发此字体时，您应当注明 OFL 授权协议的原文或链接。
 根据 OFL 协议的规定，如使用此字体制作衍生字体，那么衍生字体也必须同样遵循 OFL 协议。您不得单独售卖此字体。
 作者保留字体名称（斑马点阵体 / ZebraBitmap）。
